@@ -1,0 +1,5 @@
+.DS_Store
+tmp/*
+Thumbs.db
+*_old
+*_backup
